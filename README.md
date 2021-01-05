@@ -1,5 +1,6 @@
 # Are u ok
 > 东北大学学生防控信息统计系统自动化打卡脚本
+
 ![img](https://derpicdn.net/img/2021/1/3/2522477/large.gif)
 
 ## 目录
